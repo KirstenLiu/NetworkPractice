@@ -1,2 +1,2 @@
 # NetworkPractice
-Some simple implementation of network related concept.
+Some simple implementation of network related concepts.
